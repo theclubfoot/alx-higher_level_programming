@@ -1,6 +1,6 @@
 <h1> 0x03-python-data_structures </h1>
 
- In this project, I learnt about:
+ In this particular project, I learnt about:
 
 * What are lists and how to use them
 * What are the differences and similarities between strings and lists
