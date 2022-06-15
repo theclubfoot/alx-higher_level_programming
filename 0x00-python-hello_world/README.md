@@ -7,5 +7,5 @@ This folder contains a basic introduction of the python programming language.
 * 0-run: a Shell script that runs a Python script.
 * 1-run_inline: a Shell script that runs Python code.
 * 2-print.py: a Python script that prints exactly 'Programming is like building a multilingual puzzle, followed by a new line.
-* 3-print_number.py: a python program that prints the integer stored in the variable 'number', followed by Battery Street
+* 3-print_number.py: a python program that will print the integer stored in the variable 'number', followed by Battery Street
 
