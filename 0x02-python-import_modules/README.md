@@ -13,7 +13,7 @@ In this project, I am introduced to python modules.
 * How to create a python module
 * How to use the built-in funtion dir
 * How to prevent code in your script from being executed when imported
-* How to use commandline arguments in Python programs
+* How to use commandline arguments in Python based programs 
 
 
 <h3> Resources </h3>
