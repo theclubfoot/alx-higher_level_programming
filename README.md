@@ -2,7 +2,7 @@
 
 ## Main Directories :file_folder:
 
-| File                                  | Description                                                          |
+| File Name                              | Description                                                          |
 | ------------------------------------- | -------------------------------------------------------------------- |
 | `0x00-python-hello_world`             | `Python introduction: writing some few scripts with a spice of C;`   |
 | `0x01-python-if_else_loops_functions` | `"If", "elif" and "else" statements and functions in python scripts;`|
